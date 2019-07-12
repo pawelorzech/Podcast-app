@@ -3,6 +3,15 @@
   "booleanOperation": -1,
   "clippingMaskMode": 0,
   "do_objectID": "B26FF264-43AF-47D9-9456-FF141C19E695",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
@@ -41,9 +50,9 @@
         "color": {
           "_class": "color",
           "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -60,5 +69,26 @@
     "windingRule": 1
   },
   "symbolID": "F2C057BC-CE45-42DD-ACE1-26DE87839356",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 69,
+            "enabled": 1,
+            "modelID": "constraint_10581565-d900-4be9-81eb-e1918933b122",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 69
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3a5bf13a-a5f1-40e0-9cc3-b30782b1666d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
   "verticalSpacing": 0
 }

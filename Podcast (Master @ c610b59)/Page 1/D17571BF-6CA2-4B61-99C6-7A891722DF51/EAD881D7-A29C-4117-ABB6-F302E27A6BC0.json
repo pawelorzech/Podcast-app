@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "EAD881D7-A29C-4117-ABB6-F302E27A6BC0",
   "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "fixedRadius": 0,
   "flow": {
     "_class": "MSImmutableFlowConnection",

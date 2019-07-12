@@ -40,6 +40,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "1AD4DE40-84E6-4F10-A40C-2592F4C15AEA",
   "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": 3,

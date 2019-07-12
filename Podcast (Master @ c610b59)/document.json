@@ -2,7 +2,11 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -16,8 +20,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "63BFD5DF-1970-4138-AC5B-CD48C85F6E63",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignLayerStyles": [
   ],
   "foreignSymbols": [
@@ -26,6 +28,7 @@
       "libraryID": "F55B8C55-90F8-4303-99AA-167FDD09C007",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -53,6 +56,9 @@
           "width": 375,
           "x": 4342,
           "y": 0
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -96,6 +102,9 @@
               "x": -2.629008122312372e-13,
               "y": 0
             },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
+            },
             "hasClickThrough": false,
             "hasClippingMask": false,
             "isFixedToViewport": false,
@@ -544,6 +553,8 @@
         ],
         "name": "iPhone X/iPhone X Frame",
         "nameIsFixed": true,
+        "overrideProperties": [
+        ],
         "presetDictionary": {
           "allowResizedMatching": 1,
           "height": 812,
@@ -574,6 +585,7 @@
       "sourceLibraryName": "iOS UI Design",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -602,6 +614,9 @@
           "x": 4342,
           "y": 0
         },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
         "hasClippingMask": false,
@@ -627,6 +642,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "09207053-0105-4601-B241-EDE942961CD2",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -634,6 +658,9 @@
               "width": 375.0000000000004,
               "x": -2.629008122312372e-13,
               "y": 0
+            },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
@@ -650,6 +677,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "D1AE4FA5-EB03-4CA8-BD89-C5335FDEDEF9",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -749,6 +785,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "0F4367C5-D1B8-488A-AB05-9B09AC5D5342",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 40,
                 "frame": {
                   "_class": "rect",
@@ -848,6 +893,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "07F9C798-CD6F-44FA-A808-15E96DC65729",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -1056,6 +1110,8 @@
         ],
         "name": "iPhone X/iPhone X Frame",
         "nameIsFixed": true,
+        "overrideProperties": [
+        ],
         "presetDictionary": {
           "allowResizedMatching": 1,
           "height": 812,
@@ -1090,6 +1146,7 @@
       "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -1119,6 +1176,9 @@
           "width": 375,
           "x": 7360,
           "y": 5438
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
         },
         "hasBackgroundColor": true,
         "hasClickThrough": true,
@@ -1216,6 +1276,9 @@
               "width": 15,
               "x": 330,
               "y": 241
+            },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
@@ -2329,6 +2392,9 @@
               "x": 25,
               "y": 240
             },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
+            },
             "hasClickThrough": false,
             "hasClippingMask": false,
             "isFixedToViewport": false,
@@ -3318,6 +3384,9 @@
               "x": 330,
               "y": 116
             },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
+            },
             "hasClickThrough": false,
             "hasClippingMask": false,
             "isFixedToViewport": false,
@@ -3413,6 +3482,9 @@
                   "width": 22.65999984741211,
                   "x": 9.660003662109375,
                   "y": 12.66000366210938
+                },
+                "groupLayout": {
+                  "_class": "MSImmutableFreeformGroupLayout"
                 },
                 "hasClickThrough": false,
                 "hasClippingMask": false,
@@ -5551,6 +5623,9 @@
               "x": 3,
               "y": 116
             },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
+            },
             "hasClickThrough": false,
             "hasClippingMask": false,
             "isFixedToViewport": false,
@@ -7638,6 +7713,173 @@
         ],
         "name": "System / Keyboards / iPhone / Dark - Alphabetic",
         "nameIsFixed": true,
+        "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "098F9FE9-0832-4025-8EF4-D41F649BE7AE_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": false,
+            "overrideName": "1E147675-2FAE-4CD8-B091-FFBFAB0F38F9_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "23AFC8AB-9F16-4B66-904F-68912E63A1D4_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "47319459-0D55-495C-B642-A14A658C04A9_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "0AA94757-2669-45AC-AA89-03B64D5306DE_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "18D6E3F7-4858-49BA-9E09-1FCE403F7A4F_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": false,
+            "overrideName": "A1ABC0C5-EA1E-4B34-9543-68C92B231899_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "50044D03-ABB7-4E38-8D12-48F519462090_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "048B3E24-8CA3-485F-ABC5-A01F68176FA2_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "ACB82814-F3EE-4684-BE62-9A98F3C5155B_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "0849BFDE-96D9-4CF3-AF64-158B3E3A1115_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "993C089A-74B9-42F2-8695-7912AF07E33E_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "92BE8C4D-CF2F-4C0F-A8D6-00683665F1D8_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "E0660622-C0B3-408D-9C3E-859D313D762A_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "6C964237-BC18-47F2-8213-0497A9061303_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "BF8697C8-A527-4C01-BE34-E3D9CA77146B_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "CC61ADCF-7B7B-4EBB-9D3B-9F6936DA34EB_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "5BEF7116-1D90-4F8F-9BA0-FD4077B6C620_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "1D34BD5D-FDA5-491E-8D43-9BFBB8E4EE4B_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "713EF97E-5ECD-405B-82AF-7A9BB5649667_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "13897C89-8994-4BD8-872A-6DBDD7DD71AE_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "5AFA18B5-3106-4C61-8FFC-24B26F09F219_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "44CA7A5D-BCB9-49FD-9358-DC9C2FB6250E_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "90A6388D-FBC6-41BD-93E1-962AB5D3DA54_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "6F80720F-E46D-4905-9061-C8B11347DAB5_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "F3132F1A-ACC9-4323-89F5-4C3833EC54A2_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "8AF57411-6E24-4811-856F-68CB5635FAAD_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "0FB6A7BB-1A7C-49AE-851C-6E4AA1CB4487_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "8DDF86E8-1A36-4E5C-BF2F-D2ED8D7F5300_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "8867B184-C57F-4E0C-A741-B5A83D949013_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "FF589F03-CE18-4F21-BE74-3E448CDBA11E_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "A44A8CC9-8709-4E4E-83F7-64569F28CB29_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "C72776A7-8095-49B7-B39C-A579F0712A9D_symbolID"
+          }
+        ],
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -7687,6 +7929,7 @@
       "sourceLibraryName": "Apple iOS UI",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -7717,6 +7960,9 @@
           "x": 7360,
           "y": 5438
         },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
         "hasBackgroundColor": true,
         "hasClickThrough": true,
         "hasClippingMask": false,
@@ -7743,6 +7989,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "098F9FE9-0832-4025-8EF4-D41F649BE7AE",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -7785,6 +8040,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "CAFA22F3-4D74-4EDB-B5B7-3D38659D9DDF",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": true,
@@ -7793,6 +8057,9 @@
               "width": 15,
               "x": 330,
               "y": 241
+            },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
@@ -7809,6 +8076,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "ED61BEF8-7623-467D-ADDF-1B6945A82CC1",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -8168,6 +8444,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "AD524C53-5BC8-4E5F-8A3C-E1C936AD8B75",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -8267,6 +8552,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "F1E74910-4B63-47A9-8FE6-D0913FE71EEB",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -8366,6 +8660,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "F5CD6AF7-533C-44F8-B826-15D7C7C74A6E",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -8475,6 +8778,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "0819629B-D50A-4ABE-AE53-FAC212EDDE5C",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -8574,6 +8886,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "B9298E31-6884-42D9-BDE6-3FEE03C5CB03",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -8827,6 +9148,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "3F5698AA-5AB4-4EF7-BA8A-B3E57F28CD0F",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -8835,6 +9165,9 @@
               "width": 26.5,
               "x": 25,
               "y": 240
+            },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
@@ -8851,6 +9184,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "43FE5593-288A-4119-BD7A-1CFE83B20BEF",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -8950,6 +9292,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "DD16AD5F-F76D-4D55-96EE-25033BB0C1F9",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -9069,6 +9420,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "A6D1DF4B-3F50-4E5B-A67A-AF9B40C49B76",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -9188,6 +9548,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "A79ECA9C-FB49-40FE-AA2C-05BE5EF9C9B5",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -9337,6 +9706,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "054BBD74-20AC-4F30-ACE6-4C303653C0C0",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -9510,6 +9888,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "1E147675-2FAE-4CD8-B091-FFBFAB0F38F9",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -9552,6 +9939,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "23AFC8AB-9F16-4B66-904F-68912E63A1D4",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -9610,6 +10006,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "47319459-0D55-495C-B642-A14A658C04A9",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -9663,6 +10068,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "0AA94757-2669-45AC-AA89-03B64D5306DE",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -9716,6 +10130,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "4783EA2B-018F-42D2-8167-E43C5ECD6485",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -9724,6 +10147,9 @@
               "width": 42,
               "x": 330,
               "y": 116
+            },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
@@ -9739,6 +10165,15 @@
                 "booleanOperation": 0,
                 "clippingMaskMode": 0,
                 "do_objectID": "18D6E3F7-4858-49BA-9E09-1FCE403F7A4F",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -9792,6 +10227,15 @@
                 "booleanOperation": 0,
                 "clippingMaskMode": 0,
                 "do_objectID": "6D7EDAC2-6414-4859-AA5C-DB9C35651349",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -9800,6 +10244,9 @@
                   "width": 22.65999984741211,
                   "x": 9.660003662109375,
                   "y": 12.66000366210938
+                },
+                "groupLayout": {
+                  "_class": "MSImmutableFreeformGroupLayout"
                 },
                 "hasClickThrough": false,
                 "hasClippingMask": false,
@@ -9816,6 +10263,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "1D35705F-AEF7-4AFF-8347-859A36FFABD9",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -11135,6 +11591,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "E04DA997-FE0C-4DC7-9D6B-B3D0E1F922F2",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -11234,6 +11699,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "86CF9735-49FC-4D91-B89A-9C872C4DE5B8",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -11333,6 +11807,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "EDBC516A-5A4A-4199-A062-EA9C531247D2",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -11452,6 +11935,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "B518088B-48F1-4793-AA76-D2343476A80C",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -11561,6 +12053,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "999359C7-DECB-4899-BCB3-B119AFD4881B",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -11680,6 +12181,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "29BCF760-6555-4078-BB23-2CC490A93651",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -11849,6 +12359,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "56D3DA59-CAA8-455E-8536-5D114988C0B4",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -11857,6 +12376,9 @@
               "width": 42,
               "x": 3,
               "y": 116
+            },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
@@ -11872,6 +12394,15 @@
                 "booleanOperation": 0,
                 "clippingMaskMode": 0,
                 "do_objectID": "A1ABC0C5-EA1E-4B34-9543-68C92B231899",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -11926,6 +12457,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "257DC29E-925B-4EF8-99A1-D5604328E9A2",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": true,
@@ -12300,6 +12840,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "50044D03-ABB7-4E38-8D12-48F519462090",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12353,6 +12902,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "048B3E24-8CA3-485F-ABC5-A01F68176FA2",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12406,6 +12964,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "ACB82814-F3EE-4684-BE62-9A98F3C5155B",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12459,6 +13026,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "0849BFDE-96D9-4CF3-AF64-158B3E3A1115",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12512,6 +13088,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "993C089A-74B9-42F2-8695-7912AF07E33E",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12565,6 +13150,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "92BE8C4D-CF2F-4C0F-A8D6-00683665F1D8",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12618,6 +13212,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "E0660622-C0B3-408D-9C3E-859D313D762A",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12671,6 +13274,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "6C964237-BC18-47F2-8213-0497A9061303",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12724,6 +13336,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "BF8697C8-A527-4C01-BE34-E3D9CA77146B",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12777,6 +13398,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "CC61ADCF-7B7B-4EBB-9D3B-9F6936DA34EB",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12830,6 +13460,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "5BEF7116-1D90-4F8F-9BA0-FD4077B6C620",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12883,6 +13522,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "1D34BD5D-FDA5-491E-8D43-9BFBB8E4EE4B",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12936,6 +13584,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "713EF97E-5ECD-405B-82AF-7A9BB5649667",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12989,6 +13646,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "13897C89-8994-4BD8-872A-6DBDD7DD71AE",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13042,6 +13708,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "5AFA18B5-3106-4C61-8FFC-24B26F09F219",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13095,6 +13770,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "44CA7A5D-BCB9-49FD-9358-DC9C2FB6250E",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13148,6 +13832,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "90A6388D-FBC6-41BD-93E1-962AB5D3DA54",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13201,6 +13894,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "6F80720F-E46D-4905-9061-C8B11347DAB5",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13254,6 +13956,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "F3132F1A-ACC9-4323-89F5-4C3833EC54A2",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13307,6 +14018,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "8AF57411-6E24-4811-856F-68CB5635FAAD",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13360,6 +14080,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "0FB6A7BB-1A7C-49AE-851C-6E4AA1CB4487",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13413,6 +14142,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "8DDF86E8-1A36-4E5C-BF2F-D2ED8D7F5300",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13466,6 +14204,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "8867B184-C57F-4E0C-A741-B5A83D949013",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13519,6 +14266,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "FF589F03-CE18-4F21-BE74-3E448CDBA11E",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13572,6 +14328,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "A44A8CC9-8709-4E4E-83F7-64569F28CB29",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13625,6 +14390,15 @@
             "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "C72776A7-8095-49B7-B39C-A579F0712A9D",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13665,6 +14439,178 @@
         ],
         "name": "System / Keyboards / iPhone / Dark - Alphabetic",
         "nameIsFixed": true,
+        "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "C72776A7-8095-49B7-B39C-A579F0712A9D_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "A44A8CC9-8709-4E4E-83F7-64569F28CB29_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "FF589F03-CE18-4F21-BE74-3E448CDBA11E_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "8867B184-C57F-4E0C-A741-B5A83D949013_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "8DDF86E8-1A36-4E5C-BF2F-D2ED8D7F5300_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "0FB6A7BB-1A7C-49AE-851C-6E4AA1CB4487_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "8AF57411-6E24-4811-856F-68CB5635FAAD_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "F3132F1A-ACC9-4323-89F5-4C3833EC54A2_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "6F80720F-E46D-4905-9061-C8B11347DAB5_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "90A6388D-FBC6-41BD-93E1-962AB5D3DA54_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "44CA7A5D-BCB9-49FD-9358-DC9C2FB6250E_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "5AFA18B5-3106-4C61-8FFC-24B26F09F219_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "13897C89-8994-4BD8-872A-6DBDD7DD71AE_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "713EF97E-5ECD-405B-82AF-7A9BB5649667_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "1D34BD5D-FDA5-491E-8D43-9BFBB8E4EE4B_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "5BEF7116-1D90-4F8F-9BA0-FD4077B6C620_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "CC61ADCF-7B7B-4EBB-9D3B-9F6936DA34EB_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "BF8697C8-A527-4C01-BE34-E3D9CA77146B_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "6C964237-BC18-47F2-8213-0497A9061303_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "E0660622-C0B3-408D-9C3E-859D313D762A_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "92BE8C4D-CF2F-4C0F-A8D6-00683665F1D8_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "993C089A-74B9-42F2-8695-7912AF07E33E_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "0849BFDE-96D9-4CF3-AF64-158B3E3A1115_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "ACB82814-F3EE-4684-BE62-9A98F3C5155B_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "048B3E24-8CA3-485F-ABC5-A01F68176FA2_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "50044D03-ABB7-4E38-8D12-48F519462090_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": false,
+            "overrideName": "A1ABC0C5-EA1E-4B34-9543-68C92B231899_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": false,
+            "overrideName": "A1ABC0C5-EA1E-4B34-9543-68C92B231899/9EF5FDCA-469F-4FC0-A126-7A1048509B78_stringValue"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "18D6E3F7-4858-49BA-9E09-1FCE403F7A4F_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "0AA94757-2669-45AC-AA89-03B64D5306DE_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "47319459-0D55-495C-B642-A14A658C04A9_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "23AFC8AB-9F16-4B66-904F-68912E63A1D4_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": false,
+            "overrideName": "1E147675-2FAE-4CD8-B091-FFBFAB0F38F9_symbolID"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "098F9FE9-0832-4025-8EF4-D41F649BE7AE_symbolID"
+          }
+        ],
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -13718,6 +14664,7 @@
       "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -13748,6 +14695,9 @@
           "width": 30,
           "x": 7440,
           "y": 6916
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
         },
         "hasBackgroundColor": true,
         "hasClickThrough": true,
@@ -14022,6 +14972,18 @@
         ],
         "name": "System / Keyboards / iPhone / x / Key - Dark Gray",
         "nameIsFixed": true,
+        "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "7DE3C968-5D5D-4AD5-A0BD-5486882FEE3E_stringValue"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "7DE3C968-5D5D-4AD5-A0BD-5486882FEE3E_textStyle"
+          }
+        ],
         "resizesContent": true,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -14065,6 +15027,7 @@
       "sourceLibraryName": "Apple iOS UI",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -14096,6 +15059,9 @@
           "x": 7440,
           "y": 6916
         },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
         "hasBackgroundColor": true,
         "hasClickThrough": true,
         "hasClippingMask": false,
@@ -14123,6 +15089,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "D5D58C18-629D-4958-BDAC-E30AB82B5446",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4.599999904632568,
             "frame": {
               "_class": "rect",
@@ -14282,6 +15257,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "7DE3C968-5D5D-4AD5-A0BD-5486882FEE3E",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -14349,6 +15333,18 @@
         ],
         "name": "System / Keyboards / iPhone / x / Key - Dark Gray",
         "nameIsFixed": true,
+        "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "7DE3C968-5D5D-4AD5-A0BD-5486882FEE3E_stringValue"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "7DE3C968-5D5D-4AD5-A0BD-5486882FEE3E_textStyle"
+          }
+        ],
         "resizesContent": true,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -14396,6 +15392,7 @@
       "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -14426,6 +15423,9 @@
           "width": 30,
           "x": 7400,
           "y": 6916
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
         },
         "hasBackgroundColor": true,
         "hasClickThrough": true,
@@ -14700,6 +15700,18 @@
         ],
         "name": "System / Keyboards / iPhone / x / Key - Dark Small",
         "nameIsFixed": true,
+        "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "72AD7F5E-0358-4654-AD4A-8E7EC7912035_stringValue"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "72AD7F5E-0358-4654-AD4A-8E7EC7912035_textStyle"
+          }
+        ],
         "resizesContent": true,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -14743,6 +15755,7 @@
       "sourceLibraryName": "Apple iOS UI",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -14774,6 +15787,9 @@
           "x": 7400,
           "y": 6916
         },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
         "hasBackgroundColor": true,
         "hasClickThrough": true,
         "hasClippingMask": false,
@@ -14801,6 +15817,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "BE01BC8A-A291-4774-8B1B-A0198B5A9059",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4.599999904632568,
             "frame": {
               "_class": "rect",
@@ -14960,6 +15985,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "72AD7F5E-0358-4654-AD4A-8E7EC7912035",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -15027,6 +16061,18 @@
         ],
         "name": "System / Keyboards / iPhone / x / Key - Dark Small",
         "nameIsFixed": true,
+        "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "72AD7F5E-0358-4654-AD4A-8E7EC7912035_stringValue"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "72AD7F5E-0358-4654-AD4A-8E7EC7912035_textStyle"
+          }
+        ],
         "resizesContent": true,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -15074,6 +16120,7 @@
       "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -15104,6 +16151,9 @@
           "width": 30,
           "x": 7360,
           "y": 6916
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
         },
         "hasBackgroundColor": true,
         "hasClickThrough": true,
@@ -15372,6 +16422,13 @@
         ],
         "name": "System / Keyboards / iPhone / x / Key - Dark Large",
         "nameIsFixed": true,
+        "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "9EF5FDCA-469F-4FC0-A126-7A1048509B78_stringValue"
+          }
+        ],
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -15415,6 +16472,7 @@
       "sourceLibraryName": "Apple iOS UI",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -15446,6 +16504,9 @@
           "x": 7360,
           "y": 6916
         },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
         "hasBackgroundColor": true,
         "hasClickThrough": true,
         "hasClippingMask": false,
@@ -15473,6 +16534,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "AE1C0E12-6728-4C39-91AE-A4D708B5B318",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4.599999904632568,
             "frame": {
               "_class": "rect",
@@ -15629,6 +16699,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "9EF5FDCA-469F-4FC0-A126-7A1048509B78",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -15693,6 +16772,13 @@
         ],
         "name": "System / Keyboards / iPhone / x / Key - Dark Large",
         "nameIsFixed": true,
+        "overrideProperties": [
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": true,
+            "overrideName": "9EF5FDCA-469F-4FC0-A126-7A1048509B78_stringValue"
+          }
+        ],
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -15740,6 +16826,7 @@
       "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -15767,6 +16854,9 @@
           "width": 100,
           "x": 7360,
           "y": 7018
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
         },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
@@ -15911,6 +17001,8 @@
         ],
         "name": "System / Keyboards / iPhone / x / Dark - Background",
         "nameIsFixed": true,
+        "overrideProperties": [
+        ],
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -15934,6 +17026,7 @@
       "sourceLibraryName": "Apple iOS UI",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -15962,6 +17055,9 @@
           "x": 7360,
           "y": 7018
         },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
         "hasBackgroundColor": false,
         "hasClickThrough": true,
         "hasClippingMask": false,
@@ -15988,6 +17084,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "7EAE76E6-B06A-4775-A2A5-955F93CC7C94",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -16095,6 +17200,8 @@
         ],
         "name": "System / Keyboards / iPhone / x / Dark - Background",
         "nameIsFixed": true,
+        "overrideProperties": [
+        ],
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -16122,6 +17229,7 @@
       "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
       "originalMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -16149,6 +17257,9 @@
           "width": 134,
           "x": 1660,
           "y": 5218
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
         },
         "hasBackgroundColor": true,
         "hasClickThrough": true,
@@ -16297,6 +17408,8 @@
         ],
         "name": "Bars / Home Indicator / iPhone / On Dark - Portrait",
         "nameIsFixed": true,
+        "overrideProperties": [
+        ],
         "resizesContent": true,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -16344,6 +17457,7 @@
       "sourceLibraryName": "Apple iOS UI",
       "symbolMaster": {
         "_class": "symbolMaster",
+        "allowsOverrides": true,
         "backgroundColor": {
           "_class": "color",
           "alpha": 1,
@@ -16372,6 +17486,9 @@
           "x": 1660,
           "y": 5218
         },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
         "hasBackgroundColor": true,
         "hasClickThrough": true,
         "hasClippingMask": false,
@@ -16398,6 +17515,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "0615B39E-527A-451D-BDB3-96C5C980D34B",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 100,
             "frame": {
               "_class": "rect",
@@ -16510,6 +17636,8 @@
         ],
         "name": "Bars / Home Indicator / iPhone / On Dark - Portrait",
         "nameIsFixed": true,
+        "overrideProperties": [
+        ],
         "resizesContent": true,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -16565,8 +17693,9 @@
     ]
   },
   "meta": {
-    "appVersion": "52.6",
-    "version": 112
+    "appVersion": "55.2",
+    "build": 78181,
+    "version": 119
   },
   "pages": [
     "Page 1",
@@ -16582,10 +17711,13 @@
         "name": "Podcast",
         "projectId": "dfd65fa0-2958-11e9-9e14-5fa27d20c74f",
         "projectName": "",
-        "readOnly": true,
+        "readOnly": 1,
         "sha": "c610b598d8e2043d5fdffe3b4db4a272e8d6e7cc",
         "version": 2
       }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }
   }
 }
