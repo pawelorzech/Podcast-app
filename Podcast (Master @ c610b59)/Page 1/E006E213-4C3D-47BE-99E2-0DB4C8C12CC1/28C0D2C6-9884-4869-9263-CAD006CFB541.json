@@ -1,0 +1,42 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "28C0D2C6-9884-4869-9263-CAD006CFB541",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A240BD0E-D93E-47D5-BC44-2EEB00C2AE74",
+    "height": 812,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "iPhone X/iPhone X Frame",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE5810E1-72C1-45DF-BB1F-B1495B0FA3AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "944A393A-5CB5-40EA-B736-F1F82B029800",
+  "verticalSpacing": 0
+}

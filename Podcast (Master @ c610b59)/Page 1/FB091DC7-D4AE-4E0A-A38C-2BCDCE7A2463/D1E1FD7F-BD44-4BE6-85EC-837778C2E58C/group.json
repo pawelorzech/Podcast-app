@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1E1FD7F-BD44-4BE6-85EC-837778C2E58C",
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "D17571BF-6CA2-4B61-99C6-7A891722DF51",
+    "do_objectID": "88D7013A-8235-4C32-AB37-728C01B7637C"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 359,
+    "x": 8,
+    "y": 98
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "613CDEDC-2EB2-48BC-AEFA-F0628931F4D4"
+    },
+    {
+      "class": "group",
+      "id": "699A437D-46EA-4980-BC52-24700C3846D7"
+    },
+    {
+      "class": "text",
+      "id": "A526115E-C060-460B-9189-2E4C8C0C07E0"
+    },
+    {
+      "class": "group",
+      "id": "89147F82-E0A1-441F-B386-0F76316EE6E6"
+    }
+  ],
+  "name": "Search",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

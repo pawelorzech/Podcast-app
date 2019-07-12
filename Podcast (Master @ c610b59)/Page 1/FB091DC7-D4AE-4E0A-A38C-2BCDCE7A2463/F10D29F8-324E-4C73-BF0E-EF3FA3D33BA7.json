@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F10D29F8-324E-4C73-BF0E-EF3FA3D33BA7",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42E03325-56A1-4855-BB30-0DA1FD0DF2D0",
+    "height": 44,
+    "width": 300,
+    "x": 38,
+    "y": 424
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78318714-7A0D-4228-B126-EDF145667924",
+      "overrideName": "65946396-7CE1-4BD2-B0EA-7661E7929474_stringValue",
+      "value": "ADD SOMETHING COOL"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A1C4FBC-BD6E-4642-94A4-A6E67FD36818",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "00122631-CEF9-48BD-A276-B8770C463E7A",
+  "verticalSpacing": 0
+}

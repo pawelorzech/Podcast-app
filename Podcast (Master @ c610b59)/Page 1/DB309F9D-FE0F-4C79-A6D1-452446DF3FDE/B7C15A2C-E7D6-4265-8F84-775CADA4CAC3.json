@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7C15A2C-E7D6-4265-8F84-775CADA4CAC3",
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 2,
+    "destinationArtboardID": "FB091DC7-D4AE-4E0A-A38C-2BCDCE7A2463",
+    "do_objectID": "843FDFD8-151D-47C4-8495-D4B7B9FBD388"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D22BA56-E1E8-44D9-9757-DF43281DDF0F",
+    "height": 44,
+    "width": 300,
+    "x": 38,
+    "y": 708
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F4C3F42-46F2-41F6-8610-F7D84E919969",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "00122631-CEF9-48BD-A276-B8770C463E7A",
+  "verticalSpacing": 0
+}
